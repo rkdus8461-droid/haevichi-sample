@@ -829,6 +829,7 @@ section {
 .membership-wrap {
     padding: 60px 0;
     background: #C5DFF4;
+    margin-top: 10em;
 }
 
 .membership-wrap>.inner {
